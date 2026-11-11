@@ -1,0 +1,1354 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 14 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 12143
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.1 .3 .55 RG
+1.1 w
+n 36.85039 812.126 m 558.4252 812.126 l S
+BT /F1 7.5 Tf 9 TL ET
+.35 .35 .35 rg
+BT 1 0 0 1 36.85039 817.7953 Tm (MINI ASSESSMENT) Tj T* ET
+BT 1 0 0 1 520.4902 817.7953 Tm (P. Yaswant) Tj T* ET
+.1 .3 .55 RG
+n 36.85039 29.76378 m 558.4252 29.76378 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 285.754 17.00787 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 42.85039 776.3701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 2.5 Tm /F2 14.5 Tf 17 TL 187.5147 0 Td (MINI ASSESSMENT) Tj T* -187.5147 0 Td ET
+Q
+Q
+q
+1 0 0 1 42.85039 763.3701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 137.2524 0 Td (Data Validation, Sanitization and Safe Processing) Tj T* -137.2524 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.6378 705.1701 cm
+q
+.85 .92 .98 rg
+n 0 52.2 80 -52.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 38.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 7.8 Tf 10.4 TL (Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 38.3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 7.8 Tf 10.4 TL (P. YASWANT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 20.9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 7.8 Tf 10.4 TL (Reg. No.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 20.9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 7.8 Tf 10.4 TL (99230040738) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F2 7.8 Tf 10.4 TL (Department) Tj T* ET
+Q
+Q
+q
+1 0 0 1 86 3.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 7.8 Tf 10.4 TL (CSE - DS) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.1 .3 .55 RG
+1.1 w
+n 0 52.2 m 480 52.2 l S
+n 0 0 m 480 0 l S
+n 0 0 m 0 52.2 l S
+n 480 0 m 480 52.2 l S
+.5 w
+n 0 34.8 m 480 34.8 l S
+n 0 17.4 m 480 17.4 l S
+n 80 0 m 80 52.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 699.1701 cm
+Q
+q
+1 0 0 1 36.85039 681.1701 cm
+q
+.1 .3 .55 rg
+n 0 18 521.5748 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 3.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Question 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 679.1701 cm
+Q
+q
+1 0 0 1 42.85039 666.1701 cm
+q
+.05 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Why must user or API input be validated before it is processed by the application?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 651.1701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 4.5 Tm /F2 7.5 Tf 12 TL 201.2449 0 Td (FLOW OF INPUT VALIDATION) Tj T* -201.2449 0 Td ET
+Q
+Q
+q
+1 0 0 1 98.1378 615.1701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+65 0 l
+67.764 0 70 2.236 70 5 c
+70 27 l
+70 29.764 67.764 32 65 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 17.0825 18 Tm (Raw input) Tj T* ET
+BT 1 0 0 1 19.7825 8.5 Tm (received) Tj T* ET
+Q
+q
+1 0 0 1 70 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 81 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+65 0 l
+67.764 0 70 2.236 70 5 c
+70 27 l
+70 29.764 67.764 32 65 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 18.53375 18 Tm (Schema /) Tj T* ET
+BT 1 0 0 1 14.57375 8.5 Tm (Type check) Tj T* ET
+Q
+q
+1 0 0 1 151 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 162 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+70 0 l
+72.764 0 75 2.236 75 5 c
+75 27 l
+75 29.764 72.764 32 70 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 22.29 18 Tm (Range &) Tj T* ET
+BT 1 0 0 1 15.82875 8.5 Tm (format rules) Tj T* ET
+Q
+q
+1 0 0 1 237 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 248 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+65 0 l
+67.764 0 70 2.236 70 5 c
+70 27 l
+70 29.764 67.764 32 65 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 20.82875 18 Tm (Sanitize) Tj T* ET
+BT 1 0 0 1 21.66125 8.5 Tm (& clean) Tj T* ET
+Q
+q
+1 0 0 1 318 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 329 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+65 0 l
+67.764 0 70 2.236 70 5 c
+70 27 l
+70 29.764 67.764 32 65 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 18.3275 18 Tm (Safe data) Tj T* ET
+BT 1 0 0 1 22.4975 8.5 Tm (for use) Tj T* ET
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 611.1701 cm
+Q
+q
+1 0 0 1 37.85039 519.9701 cm
+q
+.92 .97 .93 rg
+n 0 91.2 519.5748 -91.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 75.4 Tm 10.4 TL /F2 7.8 Tf 0 0 0 rg (Answer) Tj /F1 7.8 Tf  T* 1.29663 Tw (Untrusted input is one of the most common sources of security vulnerabilities and runtime failures. Validation ensures that data matches the) Tj T* 0 Tw .520011 Tw (expected type, length, format and business rules ) Tj /F3 7.8 Tf (before) Tj /F1 7.8 Tf ( it reaches core logic, databases or file-system operations. Without validation an attacker) Tj T* 0 Tw .115567 Tw (can inject SQL fragments, path-traversal sequences, oversized payloads or unexpected null values that cause crashes, data corruption or privilege) Tj T* 0 Tw .506859 Tw (escalation. Even non-malicious clients frequently send incomplete or incorrectly typed fields; catching these early produces clear error messages) Tj T* 0 Tw 1.36215 Tw (and prevents cascading failures deeper in the stack. A robust pipeline therefore performs three layers: \(1\) structural / schema validation, \(2\)) Tj T* 0 Tw .0445 Tw (semantic range and format checks, and \(3\) sanitization that removes or escapes dangerous characters. Libraries such as ) Tj /F2 7.8 Tf (Pydantic) Tj /F1 7.8 Tf (, ) Tj /F2 7.8 Tf (marshmallow) Tj /F1 7.8 Tf  T* 0 Tw (or JSON Schema make these checks declarative and reusable across API endpoints, CLI arguments and configuration files.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.2 .55 .35 RG
+1.1 w
+n 0 91.2 m 519.5748 91.2 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 91.2 l S
+n 519.5748 0 m 519.5748 91.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 516.9701 cm
+Q
+q
+1 0 0 1 37.85039 490.7701 cm
+q
+.93 .95 .99 rg
+n 0 26.2 519.5748 -26.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3.5 cm
+q
+BT 1 0 0 1 0 11.9 Tm .860005 Tw 9.6 TL /F2 7.3 Tf 0 0 0 rg (Practical tip:) Tj /F1 7.3 Tf ( Fail fast and return a precise error \(field name + reason\). Never process partially validated data. Prefer whitelist \(allow-list\) validation over) Tj T* 0 Tw (blacklist approaches.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.35 .5 .7 RG
+.9 w
+n 0 26.2 m 519.5748 26.2 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 26.2 l S
+n 519.5748 0 m 519.5748 26.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 483.7701 cm
+Q
+q
+1 0 0 1 36.85039 465.7701 cm
+q
+.1 .3 .55 rg
+n 0 18 521.5748 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 3.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Question 2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 463.7701 cm
+Q
+q
+1 0 0 1 42.85039 450.7701 cm
+q
+.05 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (How should a program react when incoming data fails validation or is malformed?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 435.7701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 4.5 Tm /F2 7.5 Tf 12 TL 189.1662 0 Td (FLOW OF HANDLING INVALID DATA) Tj T* -189.1662 0 Td ET
+Q
+Q
+q
+1 0 0 1 88.1378 399.7701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+60 0 l
+62.764 0 65 2.236 65 5 c
+65 27 l
+65 29.764 62.764 32 60 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 24.37375 18 Tm (Data) Tj T* ET
+BT 1 0 0 1 20.2 8.5 Tm (arrives) Tj T* ET
+Q
+q
+1 0 0 1 65 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 76 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+65 0 l
+67.764 0 70 2.236 70 5 c
+70 27 l
+70 29.764 67.764 32 65 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 17.07875 18 Tm (Validation) Tj T* ET
+BT 1 0 0 1 27.49625 8.5 Tm (fails) Tj T* ET
+Q
+q
+1 0 0 1 146 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 157 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+70 0 l
+72.764 0 75 2.236 75 5 c
+75 27 l
+75 29.764 72.764 32 70 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 22.49625 18 Tm (Reject &) Tj T* ET
+BT 1 0 0 1 18.9525 8.5 Tm (log details) Tj T* ET
+Q
+q
+1 0 0 1 232 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 243 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+80 0 l
+82.764 0 85 2.236 85 5 c
+85 27 l
+85 29.764 82.764 32 80 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 20.61875 18 Tm (Return clear) Tj T* ET
+BT 1 0 0 1 16.0325 8.5 Tm (error response) Tj T* ET
+Q
+q
+1 0 0 1 328 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 6 6 l S
+n 6 2.5 m 11 6 l 6 9.5 l h
+f*
+Q
+q
+1 0 0 1 339 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+75 0 l
+77.764 0 80 2.236 80 5 c
+80 27 l
+80 29.764 77.764 32 75 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.1275 18 Tm (Do not) Tj T* ET
+BT 1 0 0 1 12.49375 8.5 Tm (process further) Tj T* ET
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 395.7701 cm
+Q
+q
+1 0 0 1 37.85039 294.1701 cm
+q
+.92 .97 .93 rg
+n 0 101.6 519.5748 -101.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 85.8 Tm 10.4 TL /F2 7.8 Tf 0 0 0 rg (Answer) Tj /F1 7.8 Tf  T* .862983 Tw (When validation fails the program must ) Tj /F2 7.8 Tf (reject) Tj /F1 7.8 Tf ( the input immediately and must not continue with any partial or default values that could lead to) Tj T* 0 Tw 1.276964 Tw (incorrect behaviour. The preferred response is: \(a\) record a structured log entry containing the field that failed, the received value \(or a safe) Tj T* 0 Tw .075129 Tw (truncated of it\), the expected rule, and a correlation / request ID; \(b\) return a well-defined error to the caller \227 for APIs this is typically HTTP 400 or) Tj T* 0 Tw .491286 Tw (422 together with a machine-readable body that lists each violation; \(c\) never expose internal stack traces or sensitive configuration to the client.) Tj T* 0 Tw 1.33152 Tw (For batch jobs the invalid record can be written to a dead-letter queue or error file while the rest of the batch continues. Retrying the same) Tj T* 0 Tw .647267 Tw (malformed payload is usually pointless; retries should be reserved for transient infrastructure errors, not validation failures. By treating validation) Tj T* 0 Tw .9337 Tw (errors as expected control-flow rather than unexpected exceptions, the application stays stable under both user mistakes and deliberate attack) Tj T* 0 Tw (traffic.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.2 .55 .35 RG
+1.1 w
+n 0 101.6 m 519.5748 101.6 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 101.6 l S
+n 519.5748 0 m 519.5748 101.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 291.1701 cm
+Q
+q
+1 0 0 1 37.85039 226.5701 cm
+q
+.93 .95 .99 rg
+n 0 64.6 519.5748 -64.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3.5 cm
+q
+BT 1 0 0 1 0 50.3 Tm 9.6 TL /F2 7.3 Tf 0 0 0 rg (Code pattern:) Tj /F1 7.3 Tf ( ) Tj /F4 6.8 Tf (from pydantic import BaseModel, ValidationError) Tj  T* (try:) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (user = UserModel\(**payload\)) Tj  T* (except ValidationError as e:) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (logger.warning\('invalid input', extra={'errors': e.errors\(\)}\)) Tj  T* ( ) Tj ( ) Tj ( ) Tj ( ) Tj (return JSONResponse\(status_code=422, content=e.errors\(\)\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.35 .5 .7 RG
+.9 w
+n 0 64.6 m 519.5748 64.6 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 64.6 l S
+n 519.5748 0 m 519.5748 64.6 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+486 812.8898 75 14 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 490.0375 817.5898 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+141 741.8898 105 14 re
+f*
+0.066667 0.066667 0.066667 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 143.5 745.0898 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+141.5 707.8898 40 12 re
+f*
+0.066667 0.066667 0.066667 rg
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 143.6 710.6898 Tm
+(CSE) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F5
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Symbol
+/Name /F6
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 16 0 R
+/F2 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+/F5 12 0 R
+/F6 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+15 0 obj
+<<
+/Length 10390
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.1 .3 .55 RG
+1.1 w
+n 36.85039 812.126 m 558.4252 812.126 l S
+BT /F1 7.5 Tf 9 TL ET
+.35 .35 .35 rg
+BT 1 0 0 1 36.85039 817.7953 Tm (MINI ASSESSMENT) Tj T* ET
+BT 1 0 0 1 520.4902 817.7953 Tm (P. Yaswant) Tj T* ET
+.1 .3 .55 RG
+n 36.85039 29.76378 m 558.4252 29.76378 l S
+BT /F1 7.5 Tf 9 TL ET
+.4 .4 .4 rg
+BT 1 0 0 1 285.754 17.00787 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 36.85039 775.3701 cm
+q
+.1 .3 .55 rg
+n 0 18 521.5748 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 3.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Question 3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 773.3701 cm
+Q
+q
+1 0 0 1 42.85039 760.3701 cm
+q
+.05 .2 .4 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Why is sanitization important even after data has passed structural validation?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.85039 745.3701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 4.5 Tm /F2 7.5 Tf 12 TL 188.9524 0 Td (SAFE VS. UNSAFE DATA HANDLING) Tj T* -188.9524 0 Td ET
+Q
+Q
+q
+1 0 0 1 149.6378 709.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+80 0 l
+82.764 0 85 2.236 85 5 c
+85 27 l
+85 29.764 82.764 32 80 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 25.8275 18 Tm (Validated) Tj T* ET
+BT 1 0 0 1 32.0825 8.5 Tm (string) Tj T* ET
+Q
+q
+1 0 0 1 85 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 8 6 l S
+n 8 2.5 m 13 6 l 8 9.5 l h
+f*
+Q
+q
+1 0 0 1 98 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+85 0 l
+87.764 0 90 2.236 90 5 c
+90 27 l
+90 29.764 87.764 32 85 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 28.74375 18 Tm (Sanitize /) Tj T* ET
+BT 1 0 0 1 31.8675 8.5 Tm (Escape) Tj T* ET
+Q
+q
+1 0 0 1 188 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 8 6 l S
+n 8 2.5 m 13 6 l 8 9.5 l h
+f*
+Q
+q
+1 0 0 1 201 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+90 0 l
+92.764 0 95 2.236 95 5 c
+95 27 l
+95 29.764 92.764 32 90 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 24.99625 18 Tm (Safe for DB /) Tj T* ET
+BT 1 0 0 1 25.4125 8.5 Tm (HTML / shell) Tj T* ET
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 707.3701 cm
+Q
+q
+1 0 0 1 149.6378 673.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+80 0 l
+82.764 0 85 2.236 85 5 c
+85 27 l
+85 29.764 82.764 32 80 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 25.8275 18 Tm (Validated) Tj T* ET
+BT 1 0 0 1 32.0825 8.5 Tm (string) Tj T* ET
+Q
+q
+1 0 0 1 85 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 8 6 l S
+n 8 2.5 m 13 6 l 8 9.5 l h
+f*
+Q
+q
+1 0 0 1 98 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+85 0 l
+87.764 0 90 2.236 90 5 c
+90 27 l
+90 29.764 87.764 32 85 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 30.61875 18 Tm (Use raw) Tj T* ET
+BT 1 0 0 1 35.41125 8.5 Tm (value) Tj T* ET
+Q
+q
+1 0 0 1 188 11 cm
+.2 .45 .7 RG
+.2 .45 .7 rg
+1.3 w
+n 0 6 m 8 6 l S
+n 8 2.5 m 13 6 l 8 9.5 l h
+f*
+Q
+q
+1 0 0 1 201 1 cm
+.2 .45 .7 RG
+1 1 1 rg
+1.3 w
+n
+5 0 m
+90 0 l
+92.764 0 95 2.236 95 5 c
+95 27 l
+95 29.764 92.764 32 90 32 c
+5 32 l
+2.236 32 0 29.764 0 27 c
+0 5 l
+0 2.236 2.236 0 5 0 c
+h
+B*
+.05 .2 .4 rg
+BT /F2 7.5 Tf 9 TL ET
+BT 1 0 0 1 29.995 18 Tm (Injection /) Tj T* ET
+BT 1 0 0 1 32.2825 8.5 Tm (XSS risk) Tj T* ET
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 671.3701 cm
+Q
+q
+1 0 0 1 42.85039 668.3701 cm
+Q
+q
+1 0 0 1 37.85039 566.7701 cm
+q
+.92 .97 .93 rg
+n 0 101.6 519.5748 -101.6 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 85.8 Tm 10.4 TL /F2 7.8 Tf 0 0 0 rg (Answer) Tj /F1 7.8 Tf  T* .69865 Tw (Structural validation only guarantees that a value has the correct type and rough shape; it does not guarantee that the content is safe for every) Tj T* 0 Tw .99516 Tw (downstream context. A string that is a perfectly valid UTF-8 name can still contain SQL meta-characters, HTML tags, or shell metacharacters.) Tj T* 0 Tw 1.463234 Tw (Sanitization \(or better, context-aware encoding\) neutralises these dangerous sequences according to the place where the data will be used:) Tj T* 0 Tw 1.246024 Tw (parameterised queries for SQL, HTML-entity escaping for web pages, shell-quoting for command arguments, etc. Relying solely on validation) Tj T* 0 Tw 1.431638 Tw (leaves the application exposed to injection attacks \(SQLi, XSS, command injection, LDAP injection\). Modern practice prefers ) Tj /F2 7.8 Tf (parameterised) Tj T* 0 Tw .3504 Tw (interfaces) Tj /F1 7.8 Tf ( \(prepared statements, template engines with auto-escaping\) so that the developer never concatenates untrusted data into a command) Tj T* 0 Tw .172909 Tw (or query string. When those interfaces are unavailable, explicit sanitization functions must be applied and the resulting safe value must be the only) Tj T* 0 Tw (one that reaches the dangerous sink.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.2 .55 .35 RG
+1.1 w
+n 0 101.6 m 519.5748 101.6 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 101.6 l S
+n 519.5748 0 m 519.5748 101.6 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 561.7701 cm
+Q
+q
+1 0 0 1 42.85039 548.7701 cm
+q
+.1 .3 .55 rg
+BT 1 0 0 1 0 4.5 Tm /F2 7.5 Tf 12 TL 215.8287 0 Td (QUICK COMPARISON) Tj T* -215.8287 0 Td ET
+Q
+Q
+q
+1 0 0 1 55.1378 482.7701 cm
+q
+.1 .3 .55 rg
+n 0 64 485 -16 re f*
+.96 .97 .99 rg
+n 0 48 485 -16 re f*
+1 1 1 rg
+n 0 32 485 -16 re f*
+.93 .97 .93 rg
+n 0 16 485 -16 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 51.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL 54.1988 0 Td (Approach) Tj T* -54.1988 0 Td ET
+Q
+Q
+q
+1 0 0 1 154 51.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL 50.7928 0 Td (What it checks) Tj T* -50.7928 0 Td ET
+Q
+Q
+q
+1 0 0 1 314 51.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.8 Tm /F2 7.2 Tf 9 TL 53.2924 0 Td (Security outcome) Tj T* -53.2924 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 35.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 47.5892 0 Td (Validation only) Tj T* -47.5892 0 Td ET
+Q
+Q
+q
+1 0 0 1 154 35.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 43.9852 0 Td (Type, length, format) Tj T* -43.9852 0 Td ET
+Q
+Q
+q
+1 0 0 1 314 35.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 41.884 0 Td (Still vulnerable to injection) Tj T* -41.884 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 19.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 32.48 0 Td (Validation + Sanitization) Tj T* -32.48 0 Td ET
+Q
+Q
+q
+1 0 0 1 154 19.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 30.478 0 Td (Structure + dangerous chars) Tj T* -30.478 0 Td ET
+Q
+Q
+q
+1 0 0 1 314 19.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 37.6828 0 Td (Injection risk greatly reduced) Tj T* -37.6828 0 Td ET
+Q
+Q
+q
+1 0 0 1 4 3.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 38.9888 0 Td (Parameterised APIs) Tj T* -38.9888 0 Td ET
+Q
+Q
+q
+1 0 0 1 154 3.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 31.5832 0 Td (Data never mixed with code) Tj T* -31.5832 0 Td ET
+Q
+Q
+q
+1 0 0 1 314 3.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F1 7.2 Tf 9 TL 44.0836 0 Td (Best practice \226 preferred) Tj T* -44.0836 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+.1 .3 .55 RG
+1 w
+n 0 64 m 485 64 l S
+n 0 0 m 485 0 l S
+n 0 0 m 0 64 l S
+n 485 0 m 485 64 l S
+.4 w
+n 0 48 m 485 48 l S
+n 0 32 m 485 32 l S
+n 0 16 m 485 16 l S
+n 150 0 m 150 64 l S
+n 310 0 m 310 64 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 475.7701 cm
+Q
+q
+1 0 0 1 36.85039 457.7701 cm
+q
+.1 .3 .55 rg
+n 0 18 521.5748 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 3.5 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Additional Best Practices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 454.7701 cm
+Q
+q
+1 0 0 1 37.85039 280.3701 cm
+q
+.92 .97 .93 rg
+n 0 174.4 519.5748 -174.4 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 158.6 Tm .221687 Tw 10.4 TL /F2 7.8 Tf 0 0 0 rg (1. Validate as early as possible) Tj /F1 7.8 Tf ( \227 at the system boundary \(API gateway, request handler, CLI entry\). Never trust data that has already travelled) Tj T* 0 Tw (through several layers without re-validation.) Tj  T*  T* .541358 Tw /F2 7.8 Tf (2. Use declarative schemas) Tj /F1 7.8 Tf ( \227 tools such as Pydantic, JSON Schema or OpenAPI generate both validation code and documentation, reducing) Tj T* 0 Tw (the chance of drift between intended and actual rules.) Tj  T*  T* 1.257543 Tw /F2 7.8 Tf (3. Distinguish validation errors from system errors) Tj /F1 7.8 Tf ( \227 return 4xx for client mistakes and 5xx for server-side failures; log them at different) Tj T* 0 Tw (severity levels so monitoring alerts stay meaningful.) Tj  T*  T* /F2 7.8 Tf (4. Never log secrets) Tj /F1 7.8 Tf ( \227 redact passwords, tokens and personal data even inside validation-error logs.) Tj  T*  T* 1.594769 Tw /F2 7.8 Tf (5. Prefer allow-lists over deny-lists) Tj /F1 7.8 Tf ( \227 define exactly which characters or values are permitted; everything else is rejected. Deny-lists are) Tj T* 0 Tw (incomplete by nature and easily bypassed.) Tj  T*  T* .167426 Tw /F2 7.8 Tf (6. Keep sanitization context-specific) Tj /F1 7.8 Tf ( \227 the same string may need different escaping when it is placed in HTML, a URL query parameter, a SQL) Tj T* 0 Tw (literal or a shell command.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.2 .55 .35 RG
+1.1 w
+n 0 174.4 m 519.5748 174.4 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 174.4 l S
+n 519.5748 0 m 519.5748 174.4 l S
+Q
+Q
+Q
+q
+1 0 0 1 42.85039 274.3701 cm
+Q
+q
+1 0 0 1 37.85039 236.3701 cm
+q
+1 .96 .88 rg
+n 0 38 519.5748 -38 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 4 cm
+q
+BT 1 0 0 1 0 22.4 Tm 10 TL /F5 7.6 Tf .35 .25 .05 rg (KEY TAKEAWAY:) Tj /F3 7.6 Tf ( Reliable and secure programs treat all external data as untrusted. A disciplined pipeline of validation ) Tj /F6 7.6 Tf 10 TL (\256) Tj /F3 7.6 Tf 10 TL ( sanitization ) Tj /F6 7.6 Tf 10 TL (\256) Tj /F3 7.6 Tf 10 TL T* (parameterised use prevents injection attacks, avoids cascading failures from malformed input, and produces clear, actionable error responses. These) Tj T* (practices form a fundamental layer of defence for any production system that accepts user or API data.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.85 .55 .1 RG
+1.1 w
+n 0 38 m 519.5748 38 l S
+n 0 0 m 519.5748 0 l S
+n 0 0 m 0 38 l S
+n 519.5748 0 m 519.5748 38 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+486 812.8898 75 14 re
+f*
+0.333333 0.333333 0.333333 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 490.0375 817.5898 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000468 00000 n 
+0000012664 00000 n 
+0000012771 00000 n 
+0000012878 00000 n 
+0000012985 00000 n 
+0000013097 00000 n 
+0000013213 00000 n 
+0000013319 00000 n 
+0000013439 00000 n 
+0000013517 00000 n 
+0000013807 00000 n 
+0000024251 00000 n 
+trailer
+<<
+/Size 17
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+24359
+%%EOF

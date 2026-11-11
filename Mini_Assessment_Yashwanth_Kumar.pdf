@@ -1,0 +1,916 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 4
+/Kids [ 4 0 R 11 0 R 15 0 R 18 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4441
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 774.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 17 Tf 21 TL 52.7013 0 Td (Mini-Assessment \227 Multi-Step Prompt Workflow) Tj T* -52.7013 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 738.8898 cm
+q
+BT 1 0 0 1 0 16.5 Tm 210.3078 0 Td 13 TL /F2 9.5 Tf 0 0 0 rg (Name:) Tj /F1 9.5 Tf ( T. Mounika) Tj  T* -9.248255 0 Td /F2 9.5 Tf (Reg No:) Tj /F1 9.5 Tf ( 99230040777) Tj T* -201.0595 0 Td ET
+Q
+Q
+q
+1 0 0 1 48 712.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Task) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 693.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (Design a 3-step prompt workflow for processing a student leave request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 674.8898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (The workflow follows: ) Tj /F2 9.2 Tf (Step 1: Extract ) Tj /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Step 2: Reason ) Tj /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Step 3: Format) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 629.8898 cm
+q
+BT 1 0 0 1 0 29.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (\177 Step 1 uses Few-Shot Prompting) Tj  T* (\177 Step 2 uses Chain-of-Thought reasoning) Tj  T* (\177 Step 3 uses JSON Mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 603.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Objective) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 571.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 9.2 Tf 13 TL (The objective is to convert an unstructured student leave request into structured information. The workflow extracts) Tj T* (important details, determines the urgency of the request, and produces a valid JSON response.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 545.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Input \227 Student Leave Request) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 526.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Raw Request:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 494.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F1 9.2 Tf 13 TL (Hi, I am Mounika. I need leave for two days because I have to attend an important family function in Vijayawada. I need to) Tj T* (travel tomorrow morning, so please approve my leave request as soon as possible.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 468.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Step 1 \227 Extract Key Entities Using Few-Shot Prompting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 449.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 300.8898 cm
+q
+BT 1 0 0 1 0 133.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (You are a student information extraction assistant.) Tj  T* (Extract the important entities from the student's leave request, such as:) Tj  T* (\177 Student name) Tj  T* (\177 Leave duration) Tj  T* (\177 Reason for leave) Tj  T* (\177 Location) Tj  T* (\177 Travel information) Tj  T* (\177 Deadline) Tj  T* (\177 Student request) Tj  T*  T* (Follow the examples below.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 281.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Example 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 145.8898 cm
+q
+BT 1 0 0 1 0 120.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (Leave Request: I am Rahul. I need leave for one day to attend a medical appointment in Hyderabad. I need to leave) Tj T* (tomorrow morning.) Tj  T* /F2 9.2 Tf (Extracted Entities:) Tj /F1 9.2 Tf  T* (\177 Student: Rahul) Tj  T* (\177 Leave Duration: One day) Tj  T* (\177 Reason: Medical appointment) Tj  T* (\177 Location: Hyderabad) Tj  T* (\177 Travel Information: Leaving tomorrow morning) Tj  T* (\177 Deadline: Tomorrow morning) Tj  T* (\177 Request: Leave approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 126.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Example 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 55.88976 cm
+q
+BT 1 0 0 1 0 55.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (Leave Request: Sneha requests three days of leave to attend her sister's wedding in Chennai. She needs to travel tonight.) Tj  T* /F2 9.2 Tf (Extracted Entities:) Tj /F1 9.2 Tf  T* (\177 Student: Sneha) Tj  T* (\177 Leave Duration: Three days) Tj  T* (\177 Reason: Sister's wedding) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+235 738.8898 130 31 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 242.1168 754.0898 Tm
+(Name\072 P\056Yashwanth Kumar) Tj
+T*
+ET
+BT
+1 0 0 1 252.3588 741.0898 Tm
+(Reg No\072 99230040738) Tj
+T*
+ET
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 266.2938 728.0898 Tm
+(Department\072 CSE) Tj
+T*
+ET
+1 1 1 rg
+n
+81.4516 508.9854 38.9244 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.857689 Tf
+8.229227 TL
+ET
+BT
+1 0 0 1 82.2516 510.8894 Tm
+(Yashwanth\056) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Symbol
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F1-1 14 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 4285
+>>
+stream
+q
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 730.8898 cm
+q
+BT 1 0 0 1 0 55.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg  T* (\177 Location: Chennai) Tj  T* (\177 Travel Information: Travelling tonight) Tj  T* (\177 Deadline: Tonight) Tj  T* (\177 Request: Leave approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 698.8898 cm
+q
+BT 1 0 0 1 0 16.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Now process this request:) Tj /F1 9.2 Tf ( {STUDENT_LEAVE_REQUEST}) Tj  T* (Extract the key entities as a clear bullet list.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 677.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Step 1 Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 658.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Student: Mounika) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 639.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Leave Duration: Two days) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 620.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Reason: Important family function) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 601.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Location: Vijayawada) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 582.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Travel Information: Travelling tomorrow morning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 563.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Deadline: Tomorrow morning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 544.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (\177 Student Request: Leave approval) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 518.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Step 2 \227 Determine Leave Urgency Using Chain-of-Thought) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 499.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 233.8898 cm
+q
+BT 1 0 0 1 0 250.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (You are a student leave request urgency classifier.) Tj  T* (Use the extracted information below to determine the urgency level.) Tj  T*  T* /F2 9.2 Tf (Possible urgency levels:) Tj /F1 9.2 Tf  T* (\177 Low: The request is not time-sensitive and can be processed later.) Tj  T* (\177 Medium: The request is important but there is no immediate deadline.) Tj  T* (\177 High: The request has an immediate deadline or requires quick action.) Tj  T*  T* (Analyze the information step by step by considering:) Tj  T* (1. What is the student's main request?) Tj  T* (2. What is the reason for the leave?) Tj  T* (3. Is there an immediate deadline?) Tj  T* (4. Does the student need to travel soon?) Tj  T* (5. Based on these factors, determine the urgency level.) Tj  T*  T* /F2 9.2 Tf (Extracted Entities:) Tj /F1 9.2 Tf ( {STEP_1_OUTPUT}) Tj  T*  T* (Provide your reasoning followed by the final urgency level in this format:) Tj  T* (Reasoning: [brief explanation]) Tj  T* (Urgency: [low/medium/high]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 212.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Step 2 Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 167.8898 cm
+q
+BT 1 0 0 1 0 29.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Reasoning:) Tj /F1 9.2 Tf ( The student is requesting two days of leave to attend an important family function in Vijayawada. The student) Tj T* (needs to travel tomorrow morning, creating an immediate deadline for leave approval. Therefore, the request requires) Tj T* (quick attention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 148.8898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Urgency:) Tj /F1 9.2 Tf ( high) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 122.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Step 3 \227 Format the Final Result Using JSON Mode) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 103.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F2 9.2 Tf 13 TL (Prompt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 71.88976 cm
+q
+BT 1 0 0 1 0 16.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (You are a data formatting assistant.) Tj  T* (Using the extracted entities and urgency classification below, create a valid JSON object.) Tj  T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+86.5852 659.9854 36.3668 11 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.746741 Tf
+8.096089 TL
+ET
+BT
+1 0 0 1 87.3852 661.8894 Tm
+(Yashwanth) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+46 657.8898 125 15 re
+f*
+0 0 0 rg
+BT
+/F1-1 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 48 661.8898 Tm
+<7f2053747564656e743a205961736877616e7468> Tj
+T*
+ET
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 17 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 4806
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 613.8898 cm
+q
+BT 1 0 0 1 0 172.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg  T* (Requirements:) Tj  T* (1. Return only valid JSON.) Tj  T* (2. Do not include Markdown formatting.) Tj  T* (3. Do not include explanations before or after the JSON.) Tj  T* (4. The JSON must contain exactly these three keys: "entities", "urgency", and "summary".) Tj  T* (5. "entities" must be an array containing the key information extracted from the request.) Tj  T* (6. "urgency" must contain the urgency result from Step 2.) Tj  T* (7. "summary" must be a short, clear summary of the leave request.) Tj  T*  T* (Step 1 Output: {STEP_1_OUTPUT}) Tj  T* (Step 2 Output: {STEP_2_OUTPUT}) Tj  T*  T* (Return the final result as valid JSON only.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 592.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Step 3 Final Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 477.2898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 104.4 Tm /F4 7.2 Tf 9.3 TL ({) Tj T* (  "entities": [) Tj T* (    "Student: Mounika",) Tj T* (    "Leave Duration: Two days",) Tj T* (    "Reason: Important family function",) Tj T* (    "Location: Vijayawada",) Tj T* (    "Deadline: Tomorrow morning",) Tj T* (    "Student Request: Leave approval") Tj T* (  ],) Tj T* (  "urgency": "high",) Tj T* (  "summary": "Mounika requests two days of leave to attend an important family function in Vijayawada and needs approval before travelling tomorrow morning.") Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 48 451.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (End-to-End Workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.6378 345.2898 cm
+q
+.827451 .827451 .827451 rg
+n 0 100 492 -20 re f*
+0 0 0 rg
+BT /F2 7.8 Tf 10 TL ET
+BT 1 0 0 1 5 87.2 Tm (Stage) Tj T* ET
+BT 1 0 0 1 60 87.2 Tm (Action) Tj T* ET
+BT 1 0 0 1 230 87.2 Tm (Output) Tj T* ET
+BT /F1 7.8 Tf 10 TL ET
+BT 1 0 0 1 5 67.2 Tm (Input) Tj T* ET
+BT 1 0 0 1 60 67.2 Tm (Student leave request) Tj T* ET
+BT 1 0 0 1 230 67.2 Tm (Mounika requests two days of leave for an important family function.) Tj T* ET
+BT 1 0 0 1 5 47.2 Tm (Step 1) Tj T* ET
+BT 1 0 0 1 60 47.2 Tm (Few-Shot Entity Extraction) Tj T* ET
+BT 1 0 0 1 230 47.2 Tm (Student, duration, reason, location, deadline, and request extracted.) Tj T* ET
+BT 1 0 0 1 5 27.2 Tm (Step 2) Tj T* ET
+BT 1 0 0 1 60 27.2 Tm (Chain-of-Thought Urgency Reasoning) Tj T* ET
+BT 1 0 0 1 230 27.2 Tm (Urgency = High) Tj T* ET
+BT 1 0 0 1 5 7.2 Tm (Step 3) Tj T* ET
+BT 1 0 0 1 60 7.2 Tm (JSON Mode Formatting) Tj T* ET
+BT 1 0 0 1 230 7.2 Tm (Valid JSON containing entities, urgency, and summary) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 100 m 492 100 l S
+n 0 0 m 492 0 l S
+n 0 0 m 0 100 l S
+n 492 0 m 492 100 l S
+n 0 80 m 492 80 l S
+n 0 60 m 492 60 l S
+n 0 40 m 492 40 l S
+n 0 20 m 492 20 l S
+n 55 0 m 55 100 l S
+n 225 0 m 225 100 l S
+Q
+Q
+Q
+q
+1 0 0 1 48 319.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Workflow Flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 287.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F2 9.2 Tf 13 TL (Student Leave Request ) Tj /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Step 1: Few-Shot Entity Extraction ) Tj /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Step 2: Chain-of-Thought Urgency Classification) Tj T* /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Step 3: JSON Mode ) Tj /F3 9.2 Tf 13 TL (\256) Tj /F2 9.2 Tf 13 TL ( Final JSON Output) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 266.2898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Call 1 \227 Few-Shot Entity Extraction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 48.38976 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 206.7 Tm /F4 7.2 Tf 9.3 TL (step1 = prompt_llm\(f""") Tj T* (You are a student information extraction assistant.) Tj T* (Use the examples provided to extract key entities from the leave request.) Tj T*  T* (Example 1:) Tj T* (Leave Request: Rahul needs one day leave for a medical appointment.) Tj T* (Entities:) Tj T* (- Student: Rahul) Tj T* (- Leave Duration: One day) Tj T* (- Reason: Medical appointment) Tj T*  T* (Example 2:) Tj T* (Leave Request: Sneha needs three days leave for her sister's wedding.) Tj T* (Entities:) Tj T* (- Student: Sneha) Tj T* (- Leave Duration: Three days) Tj T* (- Reason: Sister's wedding) Tj T*  T* (Now extract key entities from:) Tj T* ({student_leave_request}) Tj T*  T* (Return a bullet list.) Tj T* ("""\)) Tj T* ET
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+115.68 560.893 40.48 9 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.689032 Tf
+8.026839 TL
+ET
+BT
+1 0 0 1 116.48 562.557 Tm
+(Yashwanth\042\054) Tj
+T*
+ET
+1 1 1 rg
+n
+111.36 486.493 36.16 9 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.257563 Tf
+7.509076 TL
+ET
+BT
+1 0 0 1 112.16 488.157 Tm
+(\042Yashwanth) Tj
+T*
+ET
+1 1 1 rg
+n
+280.8378 410.0752 31.0762 9.6 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.2 Tf
+7.44 TL
+ET
+BT
+1 0 0 1 281.6378 411.8112 Tm
+(Yashwanth) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/Contents 19 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 20 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+19 0 obj
+<<
+/Length 4487
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 48 781.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Intermediate Output \227 Step 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 722.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 48.6 Tm /F4 7.2 Tf 9.3 TL (- Student: Mounika) Tj T* (- Leave Duration: Two days) Tj T* (- Reason: Important family function) Tj T* (- Location: Vijayawada) Tj T* (- Deadline: Tomorrow morning) Tj T* (- Student Request: Leave approval) Tj T* ET
+Q
+q
+1 0 0 1 48 701.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Call 2 \227 Chain-of-Thought Urgency Reasoning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 557.5898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 132.3 Tm /F4 7.2 Tf 9.3 TL (step2 = prompt_llm\(f""") Tj T* (You are a student leave request urgency classifier.) Tj T* (Use the extracted entities below.) Tj T* ({step1}) Tj T*  T* (Reason through the following:) Tj T* (1. Identify the student's main request.) Tj T* (2. Determine whether there is an immediate deadline.) Tj T* (3. Consider the impact if the request is not approved quickly.) Tj T* (4. Classify urgency as low, medium, or high.) Tj T*  T* (Return:) Tj T* (Reasoning: [brief explanation]) Tj T* (Urgency: [low/medium/high]) Tj T* ("""\)) Tj T* ET
+Q
+q
+1 0 0 1 48 536.5898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Intermediate Output \227 Step 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 495.3898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 30 Tm /F4 7.2 Tf 9.3 TL (Reasoning: The student needs two days of leave for an important family) Tj T* (function and must travel tomorrow morning. The immediate travel deadline) Tj T* (means the request requires quick attention.) Tj T* (Urgency: high) Tj T* ET
+Q
+q
+1 0 0 1 48 474.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL (Call 3 \227 JSON Mode Final Formatting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 302.9898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 160.2 Tm /F4 7.2 Tf 9.3 TL (step3 = prompt_llm\() Tj T* (f""") Tj T* (Using the following outputs:) Tj T* (Entities:) Tj T* ({step1}) Tj T*  T* (Urgency analysis:) Tj T* ({step2}) Tj T*  T* (Create a valid JSON object with exactly these keys:) Tj T* ("entities": array) Tj T* ("urgency": string) Tj T* ("summary": string) Tj T*  T* (Return only valid JSON with no additional text.) Tj T* (""",) Tj T* (response_format="json") Tj T* (\)) Tj T* ET
+Q
+q
+1 0 0 1 48 276.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (JSON Validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 257.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (The final output can be checked using:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 225.0898 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 8 20.7 Tm /F4 7.2 Tf 9.3 TL (import json) Tj T* (result = json.loads\(step3\)) Tj T* (print\(result\)) Tj T* ET
+Q
+q
+1 0 0 1 48 206.0898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Expected result:) Tj /F1 9.2 Tf ( A valid JSON object containing exactly the keys ) Tj /F2 9.2 Tf (entities) Tj /F1 9.2 Tf (, ) Tj /F2 9.2 Tf (urgency) Tj /F1 9.2 Tf (, and ) Tj /F2 9.2 Tf (summary) Tj /F1 9.2 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 180.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 161.0898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (This workflow correctly demonstrates prompt chaining.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 142.0898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Step 1 \227 Few-Shot:) Tj /F1 9.2 Tf ( Extracts entities from the student's leave request.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 123.0898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Step 2 \227 Chain-of-Thought:) Tj /F1 9.2 Tf ( Uses the actual output from Step 1 to reason about urgency.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 104.0898 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F2 9.2 Tf 0 0 0 rg (Step 3 \227 JSON Mode:) Tj /F1 9.2 Tf ( Uses the outputs of Steps 1 and 2 to produce a structured, valid JSON object.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 85.08976 cm
+q
+BT 1 0 0 1 0 3.8 Tm 13 TL /F1 9.2 Tf 0 0 0 rg (The final JSON contains the required keys: ) Tj /F2 9.2 Tf (entities) Tj /F1 9.2 Tf (, ) Tj /F2 9.2 Tf (urgency) Tj /F1 9.2 Tf (, and ) Tj /F2 9.2 Tf (summary) Tj /F1 9.2 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48 66.08976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.8 Tm /F1 9.2 Tf 13 TL (The workflow is chained because each step uses the previous step's actual output.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+102.72 768.493 31.84 9 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.2 Tf
+7.44 TL
+ET
+BT
+1 0 0 1 103.52 770.157 Tm
+(Yashwanth) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000134 00000 n 
+0000000183 00000 n 
+0000000447 00000 n 
+0000004940 00000 n 
+0000005047 00000 n 
+0000005154 00000 n 
+0000005266 00000 n 
+0000005343 00000 n 
+0000005449 00000 n 
+0000005729 00000 n 
+0000010067 00000 n 
+0000010175 00000 n 
+0000010283 00000 n 
+0000010550 00000 n 
+0000015409 00000 n 
+0000015517 00000 n 
+0000015784 00000 n 
+0000020324 00000 n 
+trailer
+<<
+/Size 21
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20432
+%%EOF

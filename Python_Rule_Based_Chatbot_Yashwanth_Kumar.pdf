@@ -1,0 +1,897 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 5
+/Kids [ 4 0 R 12 0 R 16 0 R 19 0 R 22 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/helv 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6208
+>>
+stream
+q
+q q .121569 .227451 .372549 RG 1.2 w 25.51181 25.51181 544.25198 790.8661 re S .717647 .768627 .819608 RG .5 w 34.01575 34.01575 527.2441 773.8583 re S .121569 .227451 .372549 rg BT 10.2 TL/F2 8.5 Tf 1 0 0 1 39.68504 802.2047 Tm T* ET .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 477.3186 802.2047 Tm (RegNo: )Tj T* ET 39.68504 793.7008 m 555.5906 793.7008 l S .4 .4 .4 rg BT 9 TL/F1 7.5 Tf 1 0 0 1 39.68504 39.68504 Tm <507974686f6e20436f6e766572736174696f6e616c204c6f6f7020972052756c652d42617365642043686174626f74>Tj T* ET BT 1 0 0 1 531.8231 39.68504 Tm (Page 1)Tj T* ET Q q 1 0 0 1 62.69291 694.5039 cm 0 0 0 rg BT 28 TL/F2 23 Tf 1 0 0 1 82.24788 5 Tm (30-MINUTE STUDENT TASK)Tj T* ET Q q 1 0 0 1 62.69291 667.5039 cm .266667 .266667 .266667 rg BT 17 TL/F1 12 Tf 1 0 0 1 117.2249 5 Tm (Build Your Own Rule-Based Python Chatbot)Tj T* ET Q q 1 0 0 1 70.86614 521.4882 cm .917647 .941176 .964706 rg 0 112 155.9055 -112 re f* q 1 0 0 1 8 92 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (Student Name)Tj T* ET Q q 1 0 0 1 163.9055 92 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm T* ET Q q 1 0 0 1 8 64 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (Registration Number)Tj T* ET Q q 1 0 0 1 163.9055 64 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm T* ET Q q 1 0 0 1 8 36 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (Task)Tj T* ET Q q 1 0 0 1 163.9055 36 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Rule-Based Conversational Chatbot in Python)Tj T* ET Q q 1 0 0 1 8 8 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (Approach)Tj T* ET Q q 1 0 0 1 163.9055 8 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Input )Tj/F3 9.2 Tf <ae>Tj/F1 9.2 Tf ( Process )Tj/F3 9.2 Tf <ae>Tj/F1 9.2 Tf ( Respond )Tj/F3 9.2 Tf <ae>Tj/F1 9.2 Tf ( Repeat )Tj/F3 9.2 Tf <ae>Tj/F1 9.2 Tf ( Exit)Tj T* ET Q q .603922 .662745 .721569 RG 1 J 1 j .7 w 0 112 m 453.5433 112 l S 0 0 m 453.5433 0 l S 0 0 m 0 112 l S 453.5433 0 m 453.5433 112 l S 0 84 m 453.5433 84 l S 0 56 m 453.5433 56 l S 0 28 m 453.5433 28 l S 155.9055 0 m 155.9055 112 l S Q Q q 1 0 0 1 62.69291 461.4724 cm .121569 .227451 .372549 rg BT 20 TL/F2 16 Tf 1 0 0 1 0 4 Tm (1. Understanding the Task)Tj T* ET Q q 1 0 0 1 62.69291 408.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (The objective is to create a simple conversational program that does not depend on an AI model or)Tj T* (external service. Instead, it uses clearly defined rules to interpret the user's message and select an)Tj T* (appropriate response. The conversation continues until the user enters an exit command.)Tj T* ET Q q 1 0 0 1 62.69291 385.4724 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Implementation decisions)Tj T* ET Q q 1 0 0 1 62.69291 364.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f2054686520757365722773206e616d6520697320636f6c6c6563746564206265666f726520746865206d61696e20636f6e766572736174696f6e20626567696e732e>Tj T* ET Q q 1 0 0 1 62.69291 327.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 19.5 Tm <7f204576657279206d657373616765206973206e6f726d616c697a6564207573696e6720>Tj/F2 10.5 Tf (lower\(\).strip\(\))Tj/F1 10.5 Tf (, making the program less sensitive to)Tj T* 8 0 Td (capitalization and extra spaces.)Tj T* ET Q q 1 0 0 1 62.69291 305.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f2054686520>Tj/F2 10.5 Tf (in)Tj/F1 10.5 Tf <206f70657261746f7220616c6c6f7773206e61747572616c20766172696174696f6e732073756368206173209368656c6c6f20626f749420746f206265207265636f676e697a6564206173206772656574696e67732e>Tj T* ET Q q 1 0 0 1 62.69291 283.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f20>Tj/F2 10.5 Tf (if / elif / else)Tj/F1 10.5 Tf ( provides the decision-making structure.)Tj T* ET Q q 1 0 0 1 62.69291 261.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f20>Tj/F2 10.5 Tf (while True)Tj/F1 10.5 Tf ( maintains the conversation, while )Tj/F2 10.5 Tf (break)Tj/F1 10.5 Tf ( provides a controlled exit.)Tj T* ET Q q 1 0 0 1 62.69291 239.4724 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f20416e20>Tj/F2 10.5 Tf (else)Tj/F1 10.5 Tf ( response handles messages that are outside the chatbot's known rules.)Tj T* ET Q q 1 0 0 1 62.69291 185.1339 cm 0 0 0 rg BT -.038452 Tw 15 TL/F1 10.5 Tf 1 0 0 1 0 19.5 Tm (The solution follows the exact target flow specified in the task: )Tj/F2 10.5 Tf (INPUT )Tj/F3 10.5 Tf <ae>Tj/F2 10.5 Tf ( PROCESS )Tj/F3 10.5 Tf <ae>Tj/F2 10.5 Tf ( RESPOND )Tj/F3 10.5 Tf <ae>Tj/F2 10.5 Tf T* 0 Tw (REPEAT )Tj/F3 10.5 Tf <ae>Tj/F2 10.5 Tf ( EXIT)Tj/F1 10.5 Tf (. )Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (filecite)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (turn0file0)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (L37-L40)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf T* ET Q Q
+
+q
+39.68504 799.5952 58.10599 11.70447 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+234.77164 613.5374 59.31238 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+506.6626 799.81277 48.92798 10.99194 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+234.77164 585.5374 56.26721 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+BT
+1 0 0 1 39.68504 801.3509 Tm
+/helv 8.427241 Tf 0 0 0 RG 0 0 0 rg [<542e4d6f756e696b61>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 234.77164 615.43356 Tm
+/helv 9.101371 Tf 0 0 0 RG 0 0 0 rg [<542e4d6f756e696b61>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 506.6626 801.4615 Tm
+/helv 7.914239 Tf 0 0 0 RG 0 0 0 rg [<3939323330303430373737>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 234.77164 587.43356 Tm
+/helv 9.101382 Tf 0 0 0 RG 0 0 0 rg [<3939323330303430373737>]TJ
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+75 484.8898 250 17 re
+f*
+0.137255 0.231373 0.337255 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 79 491.8898 Tm
+(Department\072 CSE) Tj
+T*
+ET
+1 1 1 rg
+n
+38.88504 798.8065 40.93836 10.22724 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 39.68504 800.6177 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+505.8626 799.0233 50.00349 9.714239 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2811 Tf
+8.73732 TL
+ET
+BT
+1 0 0 1 506.6626 800.773 Tm
+(99230040738) Tj
+T*
+ET
+1 1 1 rg
+n
+233.9716 612.7496 44.0852 10.90137 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 234.7716 614.6417 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+233.9716 584.7496 57.26405 10.90138 re
+f*
+0 0 0 rg
+BT
+/F1-0 8.373271 Tf
+10.04793 TL
+ET
+BT
+1 0 0 1 234.7716 586.6417 Tm
+(99230040738) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Symbol
+/Name /F3
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /ZapfDingbats
+/Name /F4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<<
+/Type /Page
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 14 0 R
+/F2 8 0 R
+/F5 15 0 R
+/helv 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+13 0 obj
+<<
+/Length 5108
+>>
+stream
+q
+q q .121569 .227451 .372549 RG 1.2 w 25.51181 25.51181 544.25198 790.8661 re S .717647 .768627 .819608 RG .5 w 34.01575 34.01575 527.2441 773.8583 re S .121569 .227451 .372549 rg BT 10.2 TL/F2 8.5 Tf 1 0 0 1 39.68504 802.2047 Tm T* ET .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 477.3186 802.2047 Tm (RegNo: )Tj T* ET 39.68504 793.7008 m 555.5906 793.7008 l S .4 .4 .4 rg BT 9 TL/F1 7.5 Tf 1 0 0 1 39.68504 39.68504 Tm <507974686f6e20436f6e766572736174696f6e616c204c6f6f7020972052756c652d42617365642043686174626f74>Tj T* ET BT 1 0 0 1 531.8231 39.68504 Tm (Page 2)Tj T* ET Q q 1 0 0 1 62.69291 753.5276 cm .121569 .227451 .372549 rg BT 20 TL/F2 16 Tf 1 0 0 1 0 4 Tm (2. Complete Python Implementation)Tj T* ET Q q 1 0 0 1 62.69291 700.5276 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (The following program is written specifically for this task. It keeps the logic simple enough to)Tj T* (understand and demonstrate, while adding enough conversational cases to show that the chatbot is)Tj T* (more than a two-response example.)Tj T* ET Q q 1 0 0 1 62.69291 298.3276 cm 0 0 0 rg BT 10.4 TL/F5 8.3 Tf 1 0 0 1 8 386.9 Tm (# Rule-Based Python Chatbot)Tj T* (# Student: )Tj T* (# RegNo: )Tj T* T* (print\("=== Welcome to )Tj[-5399.9997]TJ ( Rule-Based Chatbot ==="\))Tj T* (name = input\("Before we begin, what is your name? "\).strip\(\))Tj T* T* (print\(f"Hello, {name}! I am a simple rule-based chatbot."\))Tj T* (print\("You can ask me about Python, my capabilities, or how I am."\))Tj T* (print\("Type 'bye' or 'exit' whenever you want to end the conversation.\\n"\))Tj T* T* (while True:)Tj T* (    user_input = input\(f"{name}: "\).lower\(\).strip\(\))Tj T* T* (    if "bye" in user_input or "exit" in user_input:)Tj T* (        print\("Bot: Goodbye! It was nice talking with you."\))Tj T* (        break)Tj T* T* (    elif "hello" in user_input or "hi" in user_input or "hey" in user_input:)Tj T* (        print\(f"Bot: Hello, {name}! Nice to meet you. How can I help you today?"\))Tj T* T* (    elif "how are you" in user_input:)Tj T* (        print\("Bot: I'm doing great! Thanks for asking. I'm ready to help."\))Tj T* T* (    elif "what is python" in user_input or "python" in user_input:)Tj T* (        print\("Bot: Python is a high-level programming language known for its clear syntax and wide range of applications."\))Tj T* T* (    elif "what can you do" in user_input or "help" in user_input:)Tj T* (        print\("Bot: I can answer basic questions about Python, learning, and general topics. Try asking me something!"\))Tj T* T* (    elif "time" in user_input:)Tj T* (        print\("Bot: I cannot access the live clock, but you can check the current time on your device."\))Tj T* T* (    elif "thank" in user_input:)Tj T* (        print\("Bot: You're welcome! I'm glad I could help."\))Tj T* T* (    else:)Tj T* (        print\("Bot: I'm not sure I understand that yet. Try asking about Python, my capabilities, or how I am."\))Tj T* ET Q q 1 0 0 1 62.69291 263.1543 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Why this implementation is robust)Tj T* ET Q q 1 0 0 1 62.69291 197.1543 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 49.5 Tm (The exit condition is checked before the other conversational rules, so the user can always leave the)Tj T* (program. Greeting detection uses the )Tj/F2 10.5 Tf (in)Tj/F1 10.5 Tf ( operator rather than exact equality, which handles phrases)Tj T* (containing a greeting. The remaining branches cover multiple topics, and the final )Tj/F2 10.5 Tf (else)Tj/F1 10.5 Tf ( gives a useful)Tj T* (recovery response instead of failing silently.)Tj T* ET Q Q
+
+q
+39.68504 799.5952 58.10599 11.70447 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+125.47291 672.19656 69.72004 10.3667 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+506.6626 799.81277 48.92798 10.99194 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+115.51291 661.7965 54.78001 10.3667 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+180.25295 640.9966 44.81998 10.3667 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+BT
+1 0 0 1 125.47291 673.7515 Tm
+/helv 7.4640238 Tf 0 0 0 RG 0 0 0 rg [<542e4d6f756e696b61>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 115.51291 663.35159 Tm
+/helv 7.4640238 Tf 0 0 0 RG 0 0 0 rg [<3939323330303430373737>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 180.25295 642.5516 Tm
+/helv 7.4640238 Tf 0 0 0 RG 0 0 0 rg [<4d6f756e696b612773>]TJ
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+38.88504 798.8065 40.93836 10.22724 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 39.68504 800.6177 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+505.8626 799.0233 50.00349 9.714239 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2811 Tf
+8.73732 TL
+ET
+BT
+1 0 0 1 506.6626 800.773 Tm
+(99230040738) Tj
+T*
+ET
+1 1 1 rg
+n
+124.6729 671.4064 36.44206 9.264024 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 125.4729 673.1021 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+114.7129 661.0065 47.24997 9.264024 re
+f*
+0 0 0 rg
+BT
+/F1-0 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 115.5129 662.7022 Tm
+(99230040738) Tj
+T*
+ET
+1 1 1 rg
+n
+179.4529 640.2065 34.96419 9.264024 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.2 Tf
+7.44 TL
+ET
+BT
+1 0 0 1 180.2529 641.9022 Tm
+(Yashwanth\047s) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F5
+>>
+endobj
+16 0 obj
+<<
+/Type /Page
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/F4 10 0 R
+/helv 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 6045
+>>
+stream
+q
+q q .121569 .227451 .372549 RG 1.2 w 25.51181 25.51181 544.25198 790.8661 re S .717647 .768627 .819608 RG .5 w 34.01575 34.01575 527.2441 773.8583 re S .121569 .227451 .372549 rg BT 10.2 TL/F2 8.5 Tf 1 0 0 1 39.68504 802.2047 Tm T* ET .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 477.3186 802.2047 Tm (RegNo: )Tj T* ET 39.68504 793.7008 m 555.5906 793.7008 l S .4 .4 .4 rg BT 9 TL/F1 7.5 Tf 1 0 0 1 39.68504 39.68504 Tm <507974686f6e20436f6e766572736174696f6e616c204c6f6f7020972052756c652d42617365642043686174626f74>Tj T* ET BT 1 0 0 1 531.8231 39.68504 Tm (Page 3)Tj T* ET Q q 1 0 0 1 62.69291 753.5276 cm .121569 .227451 .372549 rg BT 20 TL/F2 16 Tf 1 0 0 1 0 4 Tm (3. Logic and Concept Explanation)Tj T* ET Q q 1 0 0 1 62.69291 730.5276 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (The chatbot can be understood as five small stages:)Tj T* ET Q q 1 0 0 1 70.86614 555.5276 cm .121569 .227451 .372549 rg 0 168 453.5433 -24 re f* q 1 0 0 1 6 150 cm 1 1 1 rg BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Stage)Tj T* ET Q q 1 0 0 1 96.70866 150 cm 1 1 1 rg BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (What happens)Tj T* ET Q q 1 0 0 1 343.3228 150 cm 1 1 1 rg BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Python concept)Tj T* ET Q q 1 0 0 1 6 126 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (1. INPUT)Tj T* ET Q q 1 0 0 1 96.70866 126 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (The user provides their name and then enters messages.)Tj T* ET Q q 1 0 0 1 343.3228 126 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (input\(\))Tj T* ET Q q 1 0 0 1 6 102 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (2. PROCESS)Tj T* ET Q q 1 0 0 1 96.70866 90 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (The message is converted to lowercase and stripped of)Tj T* (unnecessary spaces.)Tj T* ET Q q 1 0 0 1 343.3228 102 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (.lower\(\).strip\(\))Tj T* ET Q q 1 0 0 1 6 66 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (3. DECISION)Tj T* ET Q q 1 0 0 1 96.70866 54 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (The program checks the message against known rules in)Tj T* (order.)Tj T* ET Q q 1 0 0 1 343.3228 66 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (if / elif / else)Tj T* ET Q q 1 0 0 1 6 30 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (4. RESPOND)Tj T* ET Q q 1 0 0 1 96.70866 30 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (A matching response is printed to the screen.)Tj T* ET Q q 1 0 0 1 343.3228 30 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (print\(\))Tj T* ET Q q 1 0 0 1 6 6 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (5. REPEAT / EXIT)Tj T* ET Q q 1 0 0 1 96.70866 6 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm <546865206c6f6f7020636f6e74696e75657320756e74696c209362796594206f72209365786974942069732064657465637465642e>Tj T* ET Q q 1 0 0 1 343.3228 6 cm 0 0 0 rg BT 12 TL/F2 9.2 Tf 1 0 0 1 0 2.8 Tm (while True + break)Tj T* ET Q q .603922 .662745 .721569 RG 1 J 1 j .6 w 0 168 m 453.5433 168 l S 0 0 m 453.5433 0 l S 0 0 m 0 168 l S 453.5433 0 m 453.5433 168 l S 0 144 m 453.5433 144 l S 0 120 m 453.5433 120 l S 0 84 m 453.5433 84 l S 0 48 m 453.5433 48 l S 0 24 m 453.5433 24 l S 90.70866 0 m 90.70866 168 l S 337.3228 0 m 337.3228 168 l S Q Q q 1 0 0 1 62.69291 514.685 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Conversation rules)Tj T* ET Q q 1 0 0 1 62.69291 493.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (1. )Tj/F2 10.5 Tf (Greetings:)Tj/F1 10.5 Tf <207265636f676e697a6573209368656c6c6f942c20936869942c20616e642093686579942c20696e636c7564696e6720706872617365732073756368206173209368656c6c6f20626f74942e>Tj T* ET Q q 1 0 0 1 62.69291 471.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (2. )Tj/F2 10.5 Tf (Well-being:)Tj/F1 10.5 Tf <20726573706f6e647320746f2093686f772061726520796f75942e>Tj T* ET Q q 1 0 0 1 62.69291 449.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (3. )Tj/F2 10.5 Tf (Python topic:)Tj/F1 10.5 Tf <206578706c61696e73207768617420507974686f6e206973207768656e20746865206d65737361676520636f6e7461696e732093707974686f6e942e>Tj T* ET Q q 1 0 0 1 62.69291 427.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (4. )Tj/F2 10.5 Tf (Capabilities/help:)Tj/F1 10.5 Tf ( explains what the chatbot can answer.)Tj T* ET Q q 1 0 0 1 62.69291 405.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (5. )Tj/F2 10.5 Tf (Time:)Tj/F1 10.5 Tf ( gives a transparent response instead of pretending to know the live time.)Tj T* ET Q q 1 0 0 1 62.69291 383.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (6. )Tj/F2 10.5 Tf (Thanks:)Tj/F1 10.5 Tf ( acknowledges appreciation naturally.)Tj T* ET Q q 1 0 0 1 62.69291 361.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (7. )Tj/F2 10.5 Tf (Exit:)Tj/F1 10.5 Tf <20936279659420616e642093657869749420656e642074686520636f6e766572736174696f6e2e>Tj T* ET Q q 1 0 0 1 62.69291 339.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 4.5 Tm (8. )Tj/F2 10.5 Tf (Unknown input:)Tj/F1 10.5 Tf ( the final else branch tells the user what kinds of questions they can try.)Tj T* ET Q q 1 0 0 1 62.69291 273.1811 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (This structure directly satisfies the assignment's requirement for at least two greetings, at least three)Tj T* (topics, conditional decision-making, an exit mechanism, name usage, and a useful unknown-input)Tj T* (response. )Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (filecite)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (turn0file0)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (L13-L23)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf T* ET Q Q
+
+q
+39.68504 799.5952 58.10599 11.70447 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+506.6626 799.81277 48.92798 10.99194 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+38.88504 798.8065 40.93836 10.22724 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 39.68504 800.6177 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+505.8626 799.0233 50.00349 9.714239 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2811 Tf
+8.73732 TL
+ET
+BT
+1 0 0 1 506.6626 800.773 Tm
+(99230040738) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Type /Page
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/F4 10 0 R
+/helv 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 8150
+>>
+stream
+q
+q q .121569 .227451 .372549 RG 1.2 w 25.51181 25.51181 544.25198 790.8661 re S .717647 .768627 .819608 RG .5 w 34.01575 34.01575 527.2441 773.8583 re S .121569 .227451 .372549 rg BT 10.2 TL/F2 8.5 Tf 1 0 0 1 39.68504 802.2047 Tm T* ET .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 477.3186 802.2047 Tm (RegNo: )Tj T* ET 39.68504 793.7008 m 555.5906 793.7008 l S .4 .4 .4 rg BT 9 TL/F1 7.5 Tf 1 0 0 1 39.68504 39.68504 Tm <507974686f6e20436f6e766572736174696f6e616c204c6f6f7020972052756c652d42617365642043686174626f74>Tj T* ET BT 1 0 0 1 531.8231 39.68504 Tm (Page 4)Tj T* ET Q q 1 0 0 1 62.69291 753.5276 cm .121569 .227451 .372549 rg BT 20 TL/F2 16 Tf 1 0 0 1 0 4 Tm (4. Testing and Expected Results)Tj T* ET Q q 1 0 0 1 62.69291 700.5276 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (The assignment explicitly asks for tests involving different capitalization, greetings, a question, an)Tj T* (unknown message, and an exit command. )Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (filecite)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (turn0file0)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf (L27-L36)Tj/F4 10.5 Tf (n)Tj/F1 10.5 Tf ( The cases below cover)Tj T* (those checks and add a few practical variations.)Tj T* ET Q q 1 0 0 1 70.86614 381.5276 cm .121569 .227451 .372549 rg 0 312 453.5433 -24 re f* 1 1 1 rg 0 288 453.5433 -36 re f* .968627 .976471 .984314 rg 0 252 453.5433 -36 re f* 1 1 1 rg 0 216 453.5433 -36 re f* .968627 .976471 .984314 rg 0 180 453.5433 -36 re f* 1 1 1 rg 0 144 453.5433 -36 re f* .968627 .976471 .984314 rg 0 108 453.5433 -24 re f* 1 1 1 rg 0 84 453.5433 -36 re f* .968627 .976471 .984314 rg 0 48 453.5433 -24 re f* 1 1 1 rg 0 24 453.5433 -24 re f* q 1 0 0 1 6 294 cm BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Input)Tj T* ET Q q 1 0 0 1 113.7165 294 cm BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Purpose)Tj T* ET Q q 1 0 0 1 227.1024 294 cm BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Expected chatbot behavior)Tj T* ET Q q 1 0 0 1 6 270 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (hello)Tj T* ET Q q 1 0 0 1 113.7165 270 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Basic greeting)Tj T* ET Q q 1 0 0 1 227.1024 258 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Hello, )Tj[-3946.0003]TJ ( Nice to meet you. How can I help you)Tj T* (today?)Tj T* ET Q q 1 0 0 1 6 234 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (HELLO)Tj T* ET Q q 1 0 0 1 113.7165 234 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Case-insensitivity)Tj T* ET Q q 1 0 0 1 227.1024 222 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Hello, )Tj[-3946.0003]TJ ( Nice to meet you. How can I help you)Tj T* (today?)Tj T* ET Q q 1 0 0 1 6 198 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (hi)Tj T* ET Q q 1 0 0 1 113.7165 198 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Second greeting)Tj T* ET Q q 1 0 0 1 227.1024 186 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Hello, )Tj[-3946.0003]TJ ( Nice to meet you. How can I help you)Tj T* (today?)Tj T* ET Q q 1 0 0 1 6 162 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (What is Python?)Tj T* ET Q q 1 0 0 1 113.7165 162 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Question/topic)Tj T* ET Q q 1 0 0 1 227.1024 150 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Python is a high-level programming language known)Tj T* (for its clear syntax and wide range of applications.)Tj T* ET Q q 1 0 0 1 6 126 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (hello bot)Tj T* ET Q q 1 0 0 1 113.7165 126 cm 0 0 0 rg BT -.122058 Tw 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Flexible greeting using in)Tj T* ET Q q 1 0 0 1 227.1024 114 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Hello, )Tj[-3946.0003]TJ ( Nice to meet you. How can I help you)Tj T* (today?)Tj T* ET Q q 1 0 0 1 6 90 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (How are you?)Tj T* ET Q q 1 0 0 1 113.7165 90 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Conversation topic)Tj T* ET Q q 1 0 0 1 227.1024 90 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (I'm doing great! Thanks for asking. I'm ready to help.)Tj T* ET Q q 1 0 0 1 6 66 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (random question)Tj T* ET Q q 1 0 0 1 113.7165 54 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (Unknown-message)Tj T* (handling)Tj T* ET Q q 1 0 0 1 227.1024 54 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm (I'm not sure I understand that yet. Try asking about)Tj T* (Python, my capabilities, or how I am.)Tj T* ET Q q 1 0 0 1 6 30 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (bye)Tj T* ET Q q 1 0 0 1 113.7165 30 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Exit command)Tj T* ET Q q 1 0 0 1 227.1024 30 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Goodbye! Have a productive day.)Tj T* ET Q q 1 0 0 1 6 6 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (EXIT)Tj T* ET Q q 1 0 0 1 113.7165 6 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Case-insensitive exit)Tj T* ET Q q 1 0 0 1 227.1024 6 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Goodbye! Have a productive day.)Tj T* ET Q q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 312 m 453.5433 312 l S 0 0 m 453.5433 0 l S 0 0 m 0 312 l S 453.5433 0 m 453.5433 312 l S 0 288 m 453.5433 288 l S 0 252 m 453.5433 252 l S 0 216 m 453.5433 216 l S 0 180 m 453.5433 180 l S 0 144 m 453.5433 144 l S 0 108 m 453.5433 108 l S 0 84 m 453.5433 84 l S 0 48 m 453.5433 48 l S 0 24 m 453.5433 24 l S 107.7165 0 m 107.7165 312 l S 221.1024 0 m 221.1024 312 l S Q Q q 1 0 0 1 62.69291 340.685 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Testing conclusion)Tj T* ET Q q 1 0 0 1 62.69291 289.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (The test set demonstrates that the chatbot continues to respond correctly when capitalization)Tj T* (changes, recognizes a greeting embedded in a longer phrase, answers multiple topics, handles an)Tj T* (unknown message gracefully, and terminates when an exit command is entered.)Tj T* ET Q q 1 0 0 1 62.69291 237.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm <54686520636f7265206e6f726d616c697a6174696f6e207374657020697320696d706f7274616e74206265636175736520626f7468209348454c4c4f9420616e64209368656c6c6f94206265636f6d65207468652073616d65>Tj T* (internal value after )Tj/F2 10.5 Tf (lower\(\).strip\(\))Tj/F1 10.5 Tf (. This is a small design choice, but it makes the interaction)Tj T* (noticeably more user-friendly.)Tj T* ET Q Q
+
+q
+39.68504 799.5952 58.10599 11.70447 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+506.6626 799.81277 48.92798 10.99194 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+324.04136 651.5768 36.30316 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+324.04136 615.5768 36.30316 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+324.04136 579.5768 36.30316 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+324.04136 507.57679 36.30316 12.64081 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+BT
+1 0 0 1 324.04136 653.4729 Tm
+/helv 9.101371 Tf 0 0 0 RG 0 0 0 rg [<4d6f756e696b6121>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 324.04136 617.4729 Tm
+/helv 9.101371 Tf 0 0 0 RG 0 0 0 rg [<4d6f756e696b6121>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 324.04136 581.4729 Tm
+/helv 9.101371 Tf 0 0 0 RG 0 0 0 rg [<4d6f756e696b6121>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 324.04136 509.4729 Tm
+/helv 9.101382 Tf 0 0 0 RG 0 0 0 rg [<4d6f756e696b6121>]TJ
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+38.88504 798.8065 40.93836 10.22724 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 39.68504 800.6177 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+505.8626 799.0233 50.00349 9.714239 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2811 Tf
+8.73732 TL
+ET
+BT
+1 0 0 1 506.6626 800.773 Tm
+(99230040738) Tj
+T*
+ET
+1 1 1 rg
+n
+323.2414 650.7889 38.52426 10.90137 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.784171 Tf
+8.141005 TL
+ET
+BT
+1 0 0 1 324.0414 652.6811 Tm
+(Yashwanth\041) Tj
+T*
+ET
+1 1 1 rg
+n
+323.2414 614.7889 38.52426 10.90137 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.784171 Tf
+8.141005 TL
+ET
+BT
+1 0 0 1 324.0414 616.6811 Tm
+(Yashwanth\041) Tj
+T*
+ET
+1 1 1 rg
+n
+323.2414 578.7889 38.52426 10.90137 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.784171 Tf
+8.141005 TL
+ET
+BT
+1 0 0 1 324.0414 580.6811 Tm
+(Yashwanth\041) Tj
+T*
+ET
+1 1 1 rg
+n
+323.2414 506.7889 38.52431 10.90138 re
+f*
+0 0 0 rg
+BT
+/F1-0 6.784179 Tf
+8.141015 TL
+ET
+BT
+1 0 0 1 324.0414 508.6811 Tm
+(Yashwanth\041) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/helv 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 7660
+>>
+stream
+q
+q q .121569 .227451 .372549 RG 1.2 w 25.51181 25.51181 544.25198 790.8661 re S .717647 .768627 .819608 RG .5 w 34.01575 34.01575 527.2441 773.8583 re S .121569 .227451 .372549 rg BT 10.2 TL/F2 8.5 Tf 1 0 0 1 39.68504 802.2047 Tm T* ET .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 477.3186 802.2047 Tm (RegNo: )Tj T* ET 39.68504 793.7008 m 555.5906 793.7008 l S .4 .4 .4 rg BT 9 TL/F1 7.5 Tf 1 0 0 1 39.68504 39.68504 Tm <507974686f6e20436f6e766572736174696f6e616c204c6f6f7020972052756c652d42617365642043686174626f74>Tj T* ET BT 1 0 0 1 531.8231 39.68504 Tm (Page 5)Tj T* ET Q q 1 0 0 1 62.69291 753.5276 cm .121569 .227451 .372549 rg BT 20 TL/F2 16 Tf 1 0 0 1 0 4 Tm (5. Final Submission Summary)Tj T* ET Q q 1 0 0 1 62.69291 700.5276 cm 0 0 0 rg BT -.13877 Tw 15 TL/F1 10.5 Tf 1 0 0 1 0 34.5 Tm (This chatbot demonstrates the fundamentals of a rule-based conversational system without hiding the)Tj T* 0 Tw (logic behind a library. Each response is traceable to a condition, making the program easy to read,)Tj T* (debug, extend, and explain during a demonstration.)Tj T* ET Q q 1 0 0 1 62.69291 677.5276 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Requirements checklist)Tj T* ET Q q 1 0 0 1 70.86614 396.5276 cm .121569 .227451 .372549 rg 0 276 453.5433 -22 re f* 1 1 1 rg 0 254 453.5433 -22 re f* .968627 .976471 .984314 rg 0 232 453.5433 -22 re f* 1 1 1 rg 0 210 453.5433 -22 re f* .968627 .976471 .984314 rg 0 188 453.5433 -22 re f* 1 1 1 rg 0 166 453.5433 -22 re f* .968627 .976471 .984314 rg 0 144 453.5433 -34 re f* 1 1 1 rg 0 110 453.5433 -22 re f* .968627 .976471 .984314 rg 0 88 453.5433 -22 re f* 1 1 1 rg 0 66 453.5433 -22 re f* .968627 .976471 .984314 rg 0 44 453.5433 -22 re f* 1 1 1 rg 0 22 453.5433 -22 re f* q 1 0 0 1 6 259 cm BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Requirement)Tj T* ET Q q 1 0 0 1 303.6378 259 cm BT 12 TL/F2 9.5 Tf 1 0 0 1 0 2.5 Tm (Implemented)Tj T* ET Q q 1 0 0 1 6 237 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Ask user's name before main conversation)Tj T* ET Q q 1 0 0 1 303.6378 237 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 215 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use while True)Tj T* ET Q q 1 0 0 1 303.6378 215 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 193 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use input\(\))Tj T* ET Q q 1 0 0 1 303.6378 193 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 171 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Clean input with lower\(\).strip\(\))Tj T* ET Q q 1 0 0 1 303.6378 171 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 149 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Recognize at least two greetings)Tj T* ET Q q 1 0 0 1 303.6378 149 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm <59657320972068656c6c6f2c2068692c20686579>Tj T* ET Q q 1 0 0 1 6 127 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Answer at least three questions/topics)Tj T* ET Q q 1 0 0 1 303.6378 115 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 14.8 Tm <596573209720507974686f6e2c206361706162696c69746965732c>Tj T* (well-being, time, thanks)Tj T* ET Q q 1 0 0 1 6 93 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use if / elif / else)Tj T* ET Q q 1 0 0 1 303.6378 93 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 71 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use break for bye/exit)Tj T* ET Q q 1 0 0 1 303.6378 71 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 49 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use user's name in a response)Tj T* ET Q q 1 0 0 1 303.6378 49 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 27 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Useful else response for unknown input)Tj T* ET Q q 1 0 0 1 303.6378 27 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q 1 0 0 1 6 5 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Use in for flexible variations)Tj T* ET Q q 1 0 0 1 303.6378 5 cm 0 0 0 rg BT 12 TL/F1 9.2 Tf 1 0 0 1 0 2.8 Tm (Yes)Tj T* ET Q q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 276 m 453.5433 276 l S 0 0 m 453.5433 0 l S 0 0 m 0 276 l S 453.5433 0 m 453.5433 276 l S 0 254 m 453.5433 254 l S 0 232 m 453.5433 232 l S 0 210 m 453.5433 210 l S 0 188 m 453.5433 188 l S 0 166 m 453.5433 166 l S 0 144 m 453.5433 144 l S 0 110 m 453.5433 110 l S 0 88 m 453.5433 88 l S 0 66 m 453.5433 66 l S 0 44 m 453.5433 44 l S 0 22 m 453.5433 22 l S 297.6378 0 m 297.6378 276 l S Q Q q 1 0 0 1 62.69291 355.685 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Demonstration points)Tj T* ET Q q 1 0 0 1 62.69291 319.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 19.5 Tm <7f204578706c61696e2074686174207468652063686174626f7420697320>Tj/F2 10.5 Tf (rule-based)Tj/F1 10.5 Tf (, so its behavior is determined by conditions rather than)Tj T* 8 0 Td (machine learning.)Tj T* ET Q q 1 0 0 1 62.69291 297.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f2044656d6f6e737472617465207468617420>Tj/F2 10.5 Tf (HELLO)Tj/F1 10.5 Tf (, )Tj/F2 10.5 Tf (hello)Tj/F1 10.5 Tf (, and )Tj/F2 10.5 Tf (hello bot)Tj/F1 10.5 Tf ( can reach the greeting rule.)Tj T* ET Q q 1 0 0 1 62.69291 275.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f2041736b206120507974686f6e2d72656c61746564207175657374696f6e20746f2073686f7720746f706963207265636f676e6974696f6e2e>Tj T* ET Q q 1 0 0 1 62.69291 253.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f20456e74657220616e20756e72656c617465642073656e74656e636520746f2064656d6f6e737472617465207468652066616c6c6261636b20>Tj/F2 10.5 Tf (else)Tj/F1 10.5 Tf ( branch.)Tj T* ET Q q 1 0 0 1 62.69291 231.685 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 7 4.5 Tm <7f2046696e697368207769746820>Tj/F2 10.5 Tf (bye)Tj/F1 10.5 Tf ( or )Tj/F2 10.5 Tf (exit)Tj/F1 10.5 Tf ( to demonstrate controlled termination.)Tj T* ET Q q 1 0 0 1 62.69291 159.5118 cm 0 0 0 rg BT 15 TL/F2 10.5 Tf 1 0 0 1 0 34.5 Tm (Final note:)Tj/F1 10.5 Tf ( The implementation is intentionally transparent and extensible. New topics can be added)Tj T* (by inserting another elif rule with a clear condition and response, while preserving the same)Tj T* (conversational loop.)Tj T* ET Q q 1 0 0 1 62.69291 108.8346 cm .14902 .196078 .219608 rg BT 16 TL/F2 12.5 Tf 1 0 0 1 0 3.5 Tm (Submitted by)Tj T* ET Q q 1 0 0 1 62.69291 72.83465 cm 0 0 0 rg BT 15 TL/F1 10.5 Tf 1 0 0 1 0 19.5 Tm T* (RegNo: )Tj T* ET Q Q
+
+q
+39.68504 799.5952 58.10599 11.70447 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+62.69291 89.11115 71.77801 14.4585 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+506.6626 799.81277 48.92798 10.99194 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+101.20691 74.19513 64.21799 14.427 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+q
+BT
+1 0 0 1 62.69291 91.27992 Tm
+/helv 10.410117 Tf 0 0 0 RG 0 0 0 rg [<542e4d6f756e696b61>]TJ
+ET
+Q
+
+q
+BT
+1 0 0 1 101.20691 76.35918 Tm
+/helv 10.387442 Tf 0 0 0 RG 0 0 0 rg [<3939323330303430373737>]TJ
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+38.88504 798.8065 40.93836 10.22724 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 39.68504 800.6177 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+505.8626 799.0233 50.00349 9.714239 re
+f*
+0 0 0 rg
+BT
+/F1-0 7.2811 Tf
+8.73732 TL
+ET
+BT
+1 0 0 1 506.6626 800.773 Tm
+(99230040738) Tj
+T*
+ET
+1 1 1 rg
+n
+61.89291 88.32503 50.19443 12.21012 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 62.69291 90.37424 Tm
+(P\056Yashwanth Kumar) Tj
+T*
+ET
+1 1 1 rg
+n
+100.4069 73.40898 65.1296 12.18744 re
+f*
+0 0 0 rg
+BT
+/F1-0 9 Tf
+10.8 TL
+ET
+BT
+1 0 0 1 101.2069 75.45547 Tm
+(99230040738) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 25
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000141 00000 n 
+0000000190 00000 n 
+0000000467 00000 n 
+0000006727 00000 n 
+0000006834 00000 n 
+0000006941 00000 n 
+0000007053 00000 n 
+0000007130 00000 n 
+0000007214 00000 n 
+0000007312 00000 n 
+0000007582 00000 n 
+0000012743 00000 n 
+0000012851 00000 n 
+0000012957 00000 n 
+0000013227 00000 n 
+0000019325 00000 n 
+0000019433 00000 n 
+0000019703 00000 n 
+0000027906 00000 n 
+0000028014 00000 n 
+0000028273 00000 n 
+0000035986 00000 n 
+trailer
+<<
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+36094
+%%EOF
